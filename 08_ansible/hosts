@@ -1,0 +1,12 @@
+[web]
+34.73.131.126
+35.231.113.83
+
+[db]
+34.73.131.126
+
+[all:vars]
+ansible_connection=ssh
+ansible_user=ubuntu
+ansible_ssh_pass=Md'sform
+ansible_sudo_pass=Md'sform
